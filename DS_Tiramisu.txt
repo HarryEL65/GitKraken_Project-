@@ -2,7 +2,8 @@ Tiramisu
 
 Menu Class: Dessert
 
-Recipe by H. Elnekave
+Recipe By Harry Elnekave
+
 Description:
 Tiramisu is a classic Italian dessert. Ladyfinger cookies dipped in coffee, then layered with mascarponed and dusted with cocoa powder.
 
